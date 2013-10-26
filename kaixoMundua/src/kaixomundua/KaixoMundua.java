@@ -17,6 +17,7 @@ public class KaixoMundua {
         // TODO code application logic here
         System.out.println("Kaixo mundua!");
         System.out.println("Agur mundua!");
-        System.out.println("Kaixo Eideeer!");
+        System.out.println("Kaixo Eider!");
+        System.out.println("Jaimeeee");
     }
 }
