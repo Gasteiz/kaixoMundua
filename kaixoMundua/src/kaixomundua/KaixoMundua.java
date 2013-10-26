@@ -16,5 +16,6 @@ public class KaixoMundua {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Kaixo mundua!");
+        System.out.println("Agur mundua!");
     }
 }
