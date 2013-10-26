@@ -19,5 +19,6 @@ public class KaixoMundua {
         System.out.println("Agur mundua!");
         System.out.println("Kaixo Eider!");
         System.out.println("Jaimeeee");
+        System.out.println("Aldaketaa");
     }
 }
